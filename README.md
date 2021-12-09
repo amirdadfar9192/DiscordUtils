@@ -1,6 +1,8 @@
 # DiscordUtils
 A very useful library made to be used in with [discord.py](https://pypi.org/project/discord.py/)
 
+*THIS PROJECT IS A MODDIFIED VERSION OF https://github.com/toxicrecker/DiscordUtils APPARENTLY THE OWNER ABANDONED THE PROJECT SO IM FIXING THE CODE NOW AND PUBLISHING THIS TO PYPI FOR OTHERS TO USE*
+
 # Installation
 For access to Pagination and InviteTracker use:
 ```

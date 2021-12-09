@@ -1,7 +1,9 @@
 # DiscordUtils
 A very useful library made to be used in with [discord.py](https://pypi.org/project/discord.py/)
 
-*THIS PROJECT IS A MODDIFIED VERSION OF https://github.com/toxicrecker/DiscordUtils APPARENTLY THE OWNER ABANDONED THE PROJECT SO IM FIXING THE CODE NOW AND PUBLISHING THIS TO PYPI FOR OTHERS TO USE*
+*THIS   PROJECT IS A MODDIFIED VERSION OF https://github.com/toxicrecker/DiscordUtils APPARENTLY THE OWNER ABANDONED THE PROJECT SO IM FIXING THE CODE NOW AND PUBLISHING THIS TO PYPI FOR OTHERS TO USE*
+
+
 
 # Installation
 For access to Pagination and InviteTracker use:
@@ -160,6 +162,6 @@ For further information please read the docs
 **[Github](https://github.discordutils.gq)**
 
 # Support
-**__Please make sure that you are on the latest version of [DiscordUtils](https://pypi.org/project/DiscordUtils) and [youtube_dl](https://pypi.org/project/youtube_dl) before contacting for support__**
+**__Please make sure that you are on the latest version of [DiscordUtilsMod](https://pypi.org/project/DiscordUtilsMod) and [youtube_dl](https://pypi.org/project/youtube_dl) before contacting for support__**
 
-DM/PM `toxic_recker#2795` on Discord for support
+DM `Λmir#0106` on Discord for support

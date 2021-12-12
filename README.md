@@ -8,12 +8,12 @@ A very useful library made to be used in with [discord.py](https://pypi.org/proj
 # Installation
 For access to Pagination and InviteTracker use:
 ```
-pip install DiscordUtils
+pip install DiscordUtilsMod
 ```
 
 or, instead use the following for access to Music functions aswell
-```
-pip install DiscordUtils[voice]
+``` 
+pip install DiscordUtilsMod[voice]
 ```
 Requires discord.py[voice] so make sure you have all dependencies of it installed.
 

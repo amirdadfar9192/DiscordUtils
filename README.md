@@ -164,4 +164,4 @@ For further information please read the docs
 # Support
 **__Please make sure that you are on the latest version of [DiscordUtilsMod](https://pypi.org/project/DiscordUtilsMod) and [youtube_dl](https://pypi.org/project/youtube_dl) before contacting for support__**
 
-DM `Λmir#0106` on Discord for support
+DM `amirdadfar9192#0106` on Discord for support
